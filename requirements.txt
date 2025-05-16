@@ -1,0 +1,7 @@
+openai
+chromadb
+requests
+tiktoken
+rich
+python-dotenv
+pyyaml 
