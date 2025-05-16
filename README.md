@@ -1,4 +1,4 @@
-# Python Package RAG Bot
+# Package Chat
 
 A Retrieval-Augmented Generation (RAG) bot that helps answer questions about Python packages by analyzing their documentation and source code.
 
